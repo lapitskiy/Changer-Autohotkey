@@ -1,7 +1,7 @@
 # Changer-Autohotkey
 
 # RU
-Переключение раскладки по одной кнопке Alt (change layout Alt + autohotkey)
+Переключение раскладки по одной кнопке Alt или Esc
 
 - Ставим AutoHotkey
 - копируем файл ChangerAlt.ahk и запускаем его правой кнопкой Run script
