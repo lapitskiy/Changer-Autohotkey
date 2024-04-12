@@ -1,4 +1,5 @@
 # Changer-Autohotkey
+test only win 10
 
 # RU
 Переключение раскладки по одной кнопке Alt (change layout Alt + autohotkey)
@@ -19,6 +20,8 @@
 
   want another button:
   - edit the file and insert your button instead of ALT
+ 
+
 
 
 
