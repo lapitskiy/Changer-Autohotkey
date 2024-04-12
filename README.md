@@ -1,5 +1,4 @@
 # Changer-Autohotkey
-test only win 10
 
 # RU
 Переключение раскладки по одной кнопке Alt (change layout Alt + autohotkey)
