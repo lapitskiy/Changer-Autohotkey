@@ -1,4 +1,6 @@
 # Changer-Autohotkey
+
+# RU
 Переключение раскладки по одной кнопке Alt (change layout Alt + autohotkey)
 
 - Ставим AutoHotkey
@@ -8,7 +10,7 @@
   хотитет другую кнопку:
   - редактирурете файл и вставляете свою кнопку вместо alt
  
-  [ENG]
+# ENG
   Switching layouts to one key
 
 - install AutoHotkey
